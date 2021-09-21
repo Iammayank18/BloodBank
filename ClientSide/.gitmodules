@@ -1,0 +1,3 @@
+[submodule "ClientSide"]
+	path = ClientSide
+	url = https://github.com/Iammayank18/BloodBank
